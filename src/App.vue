@@ -1,10 +1,7 @@
 <template>
-  <main>
-    <BaseComponent />
-  </main>
+  <StackedLayout />
 </template>
 
 <script setup lang="ts">
-import BaseComponent from '@/components/BaseComponent.vue'
+import StackedLayout from '@/components/tailwindui/StackedLayout.vue'
 </script>
-./components/BaseComponent.vue
